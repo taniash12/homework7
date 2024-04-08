@@ -3,7 +3,6 @@
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    padding: 30px;
     align-items: center;
 }
 .header{
@@ -19,12 +18,19 @@
 }
 .nav-li{
     margin-right: 30px;
+    font-size: 18px;
+    line-height: 21.78px;
+    font-weight: 400;
+    color: #37393F;
 }
 .button{
-    margin-left: 80px;
     width: 184px;
     height: 65px;
     background-color: #6B77E5;
+    font-size: 18px;
+    line-height: 21.87px;
+    font-weight: 600;
+    color: #FFFFFF;
 }
 .div-box{
     width: 386px;
