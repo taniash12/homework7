@@ -10,7 +10,8 @@
     position: sticky;
     margin: 20px 0 100px 0;
     top: 0;
-    left: 0;   
+    left: 0;  
+    z-index: 100; 
 }
 .nav-ul{
     display: flex;
@@ -122,6 +123,7 @@
     left: 500px;
     top: 210.875px;
     text-align: center;
+    z-index: 1;
 }
 .div-wraper3{
     width: 1220px;
